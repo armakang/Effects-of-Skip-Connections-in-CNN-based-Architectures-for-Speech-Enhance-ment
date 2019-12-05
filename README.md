@@ -20,4 +20,4 @@ In this repository, we present some demos about the some speech enhancement base
                         wiener: using wiener filtering enhanced speech
         
 #speech spectrum.pdf
-  In this file, we plot spectrumgram of one example audio, under seen noise condition with -6dB SNR. As we can clear see form pictures, 
+  In this file, we plot spectrumgram of one example audio, under seen noise condition with -6dB SNR. From those pictures, we can clearly see that wiener filtering can slightly attenuate noise, but it's distortion is serious as the same time. The three CNN structures proposed  in this work can perfectly recover clean speech. 
